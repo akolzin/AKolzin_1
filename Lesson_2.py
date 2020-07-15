@@ -16,3 +16,25 @@ while True:
     if a < 6:
         continue
     break
+
+
+from human.Human import Human
+from human.Woman import Woman
+
+a = Human('Vovkas', 'Pomeloffs')
+b = Human('Artem', 'Rozhkoff')
+c = Woman('Marina', 'Petrova')
+print()
+print("===============================")
+d = Woman.reproduce(a, c)
+
+b.work()
+b.eat()
+c.eat()
+c.Shopping()
+a.fishing()
+b.fishing()
+
+print(a.getName(), b.getName(), c.getName(), d.getName())
+print()
+print("===============================")
