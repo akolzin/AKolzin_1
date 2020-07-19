@@ -1,5 +1,7 @@
 from General_solver import equal
 
+# Урок 2, домашнее задание
+
 count = 0
 arr = equal(3, 7, -7, -4)
 print("Q = " + str(round(arr[3], 3)), "R = " + str(round(arr[4], 3)), "S = " + str(round(arr[5], 3)))
@@ -17,6 +19,7 @@ while True:
         continue
     break
 
+# Урок 3, домашнее задание
 
 from human.Human import Human
 from human.Woman import Woman
