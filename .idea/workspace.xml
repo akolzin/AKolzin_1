@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49edb457-adde-48f6-a2cf-20406b00cad4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="49edb457-adde-48f6-a2cf-20406b00cad4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Lesson_2_and_3 (1)">
     <configuration name="4t" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -193,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611855749718</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Передача параметров в функцию для поиска корней и вывод корней в цикле">
+      <created>1611857408065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611857408065</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,24 +206,6 @@
     <MESSAGE value="Домашнее задание к урокам 2 и 3" />
     <MESSAGE value="Передача параметров в функцию для поиска корней и вывод корней в цикле" />
     <option name="LAST_COMMIT_MESSAGE" value="Передача параметров в функцию для поиска корней и вывод корней в цикле" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="939" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1611855875620">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="939" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611855875620" />
-    <state x="820" y="91" key="CommitChangelistDialog2" timestamp="1611855748258">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="820" y="91" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611855748258" />
-    <state x="1039" y="277" key="FileChooserDialogImpl" timestamp="1611855399816">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1039" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611855399816" />
-    <state x="851" y="255" key="Vcs.Push.Dialog.v2" timestamp="1611855756380">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="851" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611855756380" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
